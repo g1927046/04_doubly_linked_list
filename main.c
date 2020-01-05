@@ -61,7 +61,6 @@ int main(int argc, char *argv[])
         {
             TOP = pushData(TOP, tmp);
         }
-        printf("%s",str);
     }
     return 0;
 }
